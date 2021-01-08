@@ -1,0 +1,4 @@
+Johnny 15 60.0 0.047654986 1 Drug A
+Johnny 15 60.0 0.2804708 1 Drug B
+Johnny 15 60.0 0.038602054 1 Drug A
+Mike 40 70.0 0.9005835 2 Drug B
